@@ -1,0 +1,178 @@
+.iupui-brand{
+    background-color: #7A1705;
+    border-top: 5px solid #900;
+    top: 0;
+    height: 60px;
+    width: 100%;
+}
+
+.trident {
+    height: 80px;
+    padding-left: 165px;
+    vertical-align: middle;
+    
+}
+
+.iupui-campus {
+    color: white;
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 27px;
+    margin-left: 10px;
+}
+
+a {
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+.search {
+    height: 20px;
+    margin-left: 1060px;
+    margin-bottom: 10px;
+}
+
+.main-nav {
+    background-color: black;
+    list-style-type: none;
+    height: 20px;
+    margin: 0px;
+    padding: 25px;
+    text-align: center;
+
+}
+
+li {
+    font-family: Arial;
+    color: white;
+    display: inline;
+    padding: 10px;
+}
+
+.home a:active {
+    text-decoration: #C28E0E underline;
+}
+.home ::after {
+    content: "|";
+    color: white ;
+    padding-left: 20px;
+
+}
+
+.credit a:active {
+    text-decoration: #C28E0E underline;
+}
+.credit ::after {
+    content: "|";
+    color: white ;
+    padding-left: 20px;
+
+}
+
+.guest a:active {
+    text-decoration: #C28E0E underline
+}
+.guest ::after {
+    content: "|";
+    color: white ;
+    padding-left: 20px;
+
+}
+
+.canvas a:active {
+    text-decoration: #C28E0E underline
+}
+.canvas ::after {
+    content: "|";
+    color: white ;
+    padding-left: 20px;
+
+}
+
+.links a:active {
+    text-decoration: #C28E0E underline
+}
+.links ::after {
+    content: "|";
+    color: white ;
+    padding-left: 20px;
+}
+
+.faq a:active {
+    text-decoration: #C28E0E underline
+}
+.faq ::after{
+    content: "|";
+    color: white ;
+    padding-left: 20px;
+}
+
+.contact a:active {
+    text-decoration: #C28E0E underline;
+
+}
+
+.title {
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    background-color: black;
+    height: 20px;
+    padding: 10px;
+
+}
+
+.department a:hover {
+    color: #C28E0E;
+}
+
+.splash-welcome {
+    font-family: Arial;
+    margin-left:75px;
+    margin-top: 30px;
+   text-align: center;
+
+}
+
+p {
+    font-family: Arial;
+    font-size: large;
+    display: inline;
+}
+
+.cit-logo {
+    height:200px;
+    width:200px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+body {
+    margin: 0;
+}
+
+.splash-intro {
+    display: inline-flex;
+    padding-right: 30px;
+}
+
+footer {
+    background-color: black;
+}
+
+footer h3 {
+    color: white;
+    text-align: center;
+}
+
+footer ul {
+    text-align: center;
+
+}
+
+footer li {
+    padding: 5px;
+}
